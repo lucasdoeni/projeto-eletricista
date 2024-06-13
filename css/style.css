@@ -5,9 +5,9 @@
     padding: 0px;
 }
 
-.cor {
-    color: #feec00;
-}
+.cor {color: #feec00;}
+.cor2 {color: #dfcf00;}
+.cor3 {color: #6a6a6a;}
 
 .topo-do-site {
     width: 100%;
@@ -47,3 +47,172 @@
     background: linear-gradient(black, #8c8f93);
 }
 
+/* Inicio Secao 1 */
+
+.secao-1 h2 {
+    font-family: Poppins;
+    font-size: 2em;
+    color: #3a4a92;
+    font-weight: bold;
+    margin-top: 110px;
+}
+
+.secao-1 p {
+    font-family: Poppins;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+.imagens-secao {
+    padding-top: 200px;
+}
+
+/* Fim Secao 1 */
+
+/* Inicio Secao 2 */
+
+.secao-2 {
+    background: url(../img/eletricista.png) no-repeat center center;
+    background-size: cover;
+    height: 478px;
+    margin-top: 110px;
+        margin-bottom: 80px;/* marcação */
+}
+
+.render {
+    margin-top: 77px;
+}
+
+.secao-2 h2 {
+    font-family: Poppins;
+    font-size: 2em;
+    color: white;
+    text-transform: uppercase;
+    margin-top: 123px;
+}
+
+.secao-2 p {
+    font-family: Poppins;
+    color: white;
+    margin-top: 30px;
+}
+
+/* Fim Secao 2 */
+
+/* inicio Secao 3 */
+
+.secao-3 h2 {
+    font-family: Poppins;
+    font-size: 1.7em;
+    color: black;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.secao-3 li {
+    list-style-type: none;
+    margin-top: 40px;
+    background: linear-gradient(#00c2fa, #0061ec);
+    width: 300px;
+    height: 400px;
+    border-radius: 30px 10px;
+    border-style: solid;
+    border-width: 0px 0px 3px 0px;
+    border-color: #feec00;
+    box-shadow: 11px 17px 19px -9px rgba(0, 0, 0, 0.568);
+    padding: 20px 20px 30px 20px;
+}
+
+.secao-3 li h3 {
+    font-family: poppins;
+    font-size: 22px;
+    font-weight: bold;
+    color: white;
+}
+
+.secao-3 li p {
+    font-family: poppins;
+    color: white;
+    margin-top: 15px;
+}
+
+.secao-3 li img {
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+
+/* Fim Secao 3 */
+
+/* Inicio Secao 4 */
+
+.secao-4 {
+    width: 100%;
+    height: 700px;
+    background: #fafafa;
+    margin-top: 110px;
+}
+
+.secao-4 h2 {
+    font-family: poppins;
+    font-weight: bold;
+    color: black;
+    font-size: 30px;
+    text-transform: uppercase;
+    
+}
+
+.secao-4 p {
+    font-family: poppins;
+    color: black;
+    text-transform: uppercase;
+    margin-top: 50px;
+    font-weight: bolder;
+}
+
+.secao-4 li {
+    font-family: poppins;
+    font-weight: bold;
+    font-size: 16px;
+    padding-top: 15px;
+}
+
+.secao-4 ul {
+    list-style-type: none;
+}
+
+.eletricista {
+    margin-top: 50px;
+    border-radius: 20px;
+    box-shadow: 11px 17px 19px -9px rgba(0, 0, 0, 0.836);
+}
+
+.fa-solid {
+    margin-right: 10px;
+    color: orange;
+}
+
+.cta .botao {
+    margin-top: 40px;
+}
+
+/* Fim Secao 4 */
+
+/* Inicio Secao 5 */
+
+.mapa {
+    width: 100%;
+    height: 550px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.secao-5 h2 {
+    font-family: Poppins;
+    font-size: 1.7em;
+    color: black;
+    text-transform: uppercase;
+    text-align: center;
+    margin-top: 80px;
+}
+
+/* Fim Secao 5 */
