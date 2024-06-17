@@ -320,7 +320,6 @@ html {
     -webkit-box-sizing: content-box;
     box-sizing: content-box;
     border-radius: 500px;
-    -o-object-fit: cover;
     margin-top: 30px;
 }
 
