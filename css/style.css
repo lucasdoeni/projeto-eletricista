@@ -273,6 +273,16 @@
     margin-top: 110px;
 }
 
+.secao-7 h2 {
+    font-family: poppins;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    font-size: 30px;
+    margin-top: 30px;
+    text-transform: uppercase;
+}
+
 .depoimento li {
     background: rgba(39, 22, 252, 0.35);
     border-radius: 16px;
@@ -282,10 +292,32 @@
     border: 1px solid rgba(39, 22, 252, 0.57);
     height: 450px;
     margin-top: 40px;
+    text-align: center;
+}
+
+.depoimento h3 {
+    font-family: poppins;
+    font-size: 25px;
+    color: white;
+    font-weight: bold;
+    margin-top: 5px;
+}
+
+.depoimento p {
+    font-family: poppins;
+    font-size: 15px;
+    color: white;
+    margin-top: 5px;
 }
 
 .depoi {
-    
+    height: 200px;
+    width: 200px;
+    -webkit-box-sizing: content-box;
+    box-sizing: content-box;
+    border-radius: 500px;
+    -o-object-fit: cover;
+    margin-top: 30px;
 }
 
 /* Fim da Seção 7 */
