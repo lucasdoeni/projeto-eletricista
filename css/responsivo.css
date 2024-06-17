@@ -1,6 +1,7 @@
 /*Tablet*/
 
 @media only screen and (min-width: 768px) and (max-width: 959px) {
+    
     .topo-do-site {
         background-image: url(../img/banner-tablet.png);
         background-size: cover;
@@ -66,5 +67,88 @@
 
 @media only screen and (max-width: 768px){
     
-	
+	.topo-do-site {
+        background-image: url(../img/banner-cel.png);
+    }
+
+    .topo-do-site h1 {
+        margin-top: 10px;
+        font-size: 30px;
+    }
+
+    .botao {
+        margin-top: 270px;
+    }
+
+    .imagens-secao {
+        display: none;
+    }
+
+    .secao-1 h2 {
+        margin-top: 10px;
+        font-size: 28px;
+    }
+
+    .render {
+        display: none;
+    }
+
+    .secao-2 h2 {
+        margin-top: 40px;
+        font-size: 28px;
+    }
+
+    .secao-3 h2 {
+        font-size: 26px;
+    }
+
+    .eletricista {
+        display: none;
+    }
+
+    .secao-5 h2 {
+        font-size: 26px;
+    }
+
+    .eletrica {
+        display: none;
+    }
+
+    .secao-6 h2 {
+        margin-top: -50px;
+    }
+
+    .secao-6 .botao {
+        margin-top: 60px;
+    }
+
+    .secao-7 h2 {
+        font-size: 25px;
+    }
+
+    .secao-8 {
+        height: 2800px;
+    }
+
+    .secao-8 img {
+        margin-top: 2000px;
+    }
+
+    .profissional {
+        border-radius: 500px;
+        -webkit-box-sizing: content-box;
+        box-sizing: content-box;
+        width: 300px;
+        height: 300px;
+        -o-object-fit: cover;
+        margin-top: 30px;
+    }
+
+    .secao-9 {
+        height: 700px;
+    }
+
+    .secao-9 h2 {
+        margin-top: 20px;
+    }
 }
