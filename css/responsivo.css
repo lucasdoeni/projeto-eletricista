@@ -1,6 +1,64 @@
 /*Tablet*/
 
 @media only screen and (min-width: 768px) and (max-width: 959px) {
+    .topo-do-site {
+        background-image: url(../img/banner-tablet.png);
+        background-size: cover;
+    }
+
+    .topo-do-site h1 {
+        font-size: 28px;
+    }
+
+    .imagens-secao {
+        display: none;
+    }
+
+    .secao-1 h2 {
+        font-size: 28px;
+    }
+
+    .render {
+        margin-top: 161px;
+    }
+
+    .secao-2 h2 {
+        font-size: 28px;
+        margin-top: 130px;
+    }
+
+    .secao-3 li {
+        width: 235px;
+    }
+
+    .secao-3 li h3 {
+        font-size: 18px;
+    }
+
+    .secao-3 li p {
+        font-size: 12px;
+    }
+
+    .secao-4 {
+        height: 560px;
+    }
+
+    .secao-4 h2 {
+        font-size: 25px;
+    }
+
+    .secao-6 h2 {
+        font-size: 25px;
+        margin-top: 20px;
+    }
+
+    .profissional {
+        margin-top: -24px;
+    }
+
+    .voltar {
+        left: 91%;
+    }
 
 }
 
